@@ -6,11 +6,6 @@
 * [Cornell CS4780](http://www.cs.cornell.edu/courses/cs4780/2018fa/)
 * 《 统计学习方法（第二版）》
 
-## 目录
-
-* [CMU 10-601](#CMU10-601)
-* [Cornell 4780](#Cornell4780)
-
 ## CMU10-601
 
 ### Readings 
