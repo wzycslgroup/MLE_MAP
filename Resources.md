@@ -3,14 +3,7 @@
 ## 目录
 
 * [CMU 10-601](#CMU10-601)
-* [Cornell 4780](#Sample)
-* [Generation](#Generation)
-* [Segmentation](#Segmentation)
-* [Detection](#Detection)
-* [Consolidation](#Consolidation)
-* [Deformation](#Deformation)
-* [Completion](#Completion)
-* [Denoise](#Denoise)
+* [Cornell 4780](#Cornell4780)
 
 ## CMU10-601
 
@@ -22,7 +15,7 @@
 
 * [MLE&MAP(CMU 10-601)](http://www.cs.cmu.edu/~mgormley/courses/10601-s18/slides/lecture20-mle-map.pdf)
 
-## Cornell 4780
+## Cornell4780
 
 ### Leacture notes
 
